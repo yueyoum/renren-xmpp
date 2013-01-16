@@ -1,0 +1,5 @@
+env
+account
+*.pyc
+*.swp
+*.bak
